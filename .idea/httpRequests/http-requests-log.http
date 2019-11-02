@@ -1,0 +1,122 @@
+GET https://discordapp.com/api/users/@me
+Accept: application/json
+Authorization: Bearer eqqn0A9PjdFUREy4kV2Bv3V9rza7xU
+
+<> 2019-10-30T065618.200.json
+
+###
+
+POST https://discordapp.com/api/oauth2/token/revoke
+Content-Type: application/x-www-form-urlencoded
+Authorization: Basic NTQ4NDY0MTM1NjM4MjIwODEwOnBvX3lpMjI1WmRkaXJkSzloM2c1WFpla1JWYXRQZl9E
+
+grant_type=authorization_code&code=eqqn0A9PjdFUREy4kV2Bv3V9rza7xU&redirect_uri=uwu
+
+<> 2019-10-30T064928.400.json
+
+###
+
+POST https://discordapp.com/api/oauth2/token/revoke?grant_type=authorization_code&code=eqqn0A9PjdFUREy4kV2Bv3V9rza7xU
+Content-Type: application/x-www-form-urlencoded
+Authorization: Basic NTQ4NDY0MTM1NjM4MjIwODEwOnBvX3lpMjI1WmRkaXJkSzloM2c1WFpla1JWYXRQZl9E
+
+<> 2019-10-30T064829.400.json
+
+###
+
+POST https://discordapp.com/api/oauth2/token/revoke
+Content-Type: application/x-www-form-urlencoded
+Authorization: Bearer NTQ4NDY0MTM1NjM4MjIwODEwOnBvX3lpMjI1WmRkaXJkSzloM2c1WFpla1JWYXRQZl9E
+
+grant_type=authorization_code&code=eqqn0A9PjdFUREy4kV2Bv3V9rza7xU
+
+<> 2019-10-30T064752.401.json
+
+###
+
+POST https://discordapp.com/api/oauth2/token/revoke
+Content-Type: application/x-www-form-urlencoded
+Authorization: Basic NTQ4NDY0MTM1NjM4MjIwODEwOnBvX3lpMjI1WmRkaXJkSzloM2c1WFpla1JWYXRQZl9E
+
+grant_type=authorization_code&code=eqqn0A9PjdFUREy4kV2Bv3V9rza7xU
+
+<> 2019-10-30T064743.400.json
+
+###
+
+POST https://discordapp.com/api/oauth2/token/revoke
+Content-Type: application/x-www-form-urlencoded
+
+grant_type=authorization_code&code=eqqn0A9PjdFUREy4kV2Bv3V9rza7xU
+
+<> 2019-10-30T064736.401.json
+
+###
+
+POST https://discordapp.com/api/oauth2/token/revoke
+Content-Type: application/x-www-form-urlencoded
+Authorization: Basic NTQ4NDY0MTM1NjM4MjIwODEwOnBvX3lpMjI1WmRkaXJkSzloM2c1WFpla1JWYXRQZl9E
+
+grant_type=authorization_code&code=eqqn0A9PjdFUREy4kV2Bv3V9rza7xU
+
+<> 2019-10-30T064716.400.json
+
+###
+
+POST https://discordapp.com/api/oauth2/token/revoke?authorization_code=eqqn0A9PjdFUREy4kV2Bv3V9rza7xU
+Content-Type: application/x-www-form-urlencoded
+Authorization: Basic NTQ4NDY0MTM1NjM4MjIwODEwOnBvX3lpMjI1WmRkaXJkSzloM2c1WFpla1JWYXRQZl9E
+
+<> 2019-10-30T064351.400.json
+
+###
+
+POST https://discordapp.com/api/oauth2/token/revoke
+Content-Type: application/x-www-form-urlencoded
+Authorization: Basic NTQ4NDY0MTM1NjM4MjIwODEwOnBvX3lpMjI1WmRkaXJkSzloM2c1WFpla1JWYXRQZl9E
+
+authorization_code=eqqn0A9PjdFUREy4kV2Bv3V9rza7xU
+
+<> 2019-10-30T064339.400.json
+
+###
+
+GET https://discordapp.com/api/users/@me
+Accept: application/json
+Authorization: Bearer eqqn0A9PjdFUREy4kV2Bv3V9rza7xU
+
+<> 2019-10-30T064331.200.json
+
+###
+
+POST https://discordapp.com/api/oauth2/token/revoke
+Content-Type: application/x-www-form-urlencoded
+Authorization: Basic NTQ4NDY0MTM1NjM4MjIwODEwOnBvX3lpMjI1WmRkaXJkSzloM2c1WFpla1JWYXRQZl9E
+
+<> 2019-10-30T064059.400.json
+
+###
+
+POST https://discordapp.com/api/oauth2/token/revoke
+Content-Type: application/x-www-form-urlencoded
+Authorization: Basic 548464135638220810:po_yi225ZddirdK9h3g5XZekRVatPf_D
+
+<> 2019-10-30T063928.500.json
+
+###
+
+POST https://discordapp.com/api/oauth2/token/revoke
+Content-Type: application/x-www-form-urlencoded
+
+<> 2019-10-30T063725.401.json
+
+###
+
+GET https://discordapp.com/api/users/@me
+Accept: application/json
+Authorization: Bearer eqqn0A9PjdFUREy4kV2Bv3V9rza7xU
+
+<> 2019-10-29T090046.200.json
+
+###
+

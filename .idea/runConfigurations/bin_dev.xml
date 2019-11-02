@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="bin/dev" type="NodeJSConfigurationType" path-to-node="/usr/local/share/.config/yarn/global/node_modules/ts-node/dist/bin.js" path-to-js-file="$PROJECT_DIR$/../flux-blog/bin/dev.ts" working-dir="$PROJECT_DIR$/../flux-blog">
+    <envs>
+      <env name="DEBUG" value="fileserver:*" />
+      <env name="DEVELOPMENT" value="true" />
+    </envs>
+    <method v="2" />
+  </configuration>
+</component>
